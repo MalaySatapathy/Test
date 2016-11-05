@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+org.jboss.tools.openshift.ApplicationId=57307c4e89f5cf0f8b000091
+org.jboss.tools.openshift.ApplicationName=test
+org.jboss.tools.openshift.Connection=https\://satapathymalay.21%40gmail.com@openshift.redhat.com
+org.jboss.tools.openshift.Domain=malaysatapathy
+org.jboss.tools.openshift.RemoteName=origin
